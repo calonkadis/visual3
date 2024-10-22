@@ -1,6 +1,6 @@
-| **Field**   | **Value**                 |
+| **Data**   | **Ket**                 |
 |-------------|---------------------------|
 | NPM         | 2310010529                |
-| Name        | MUHAMMAD HIKMATULLAH            |
-| Class       | 5A Non Regular Banjarmasin    |
-| Course      | Pemrograman Visual 3      |
+| Nama        | MUHAMMAD HIKMATULLAH            |
+| Kelas       | 5A Non Regular Banjarmasin    |
+| Mata Kuliah      | Pemrograman Visual 3      |
